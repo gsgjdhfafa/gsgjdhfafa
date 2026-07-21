@@ -41,14 +41,13 @@ def __init__(self):
 ### Gerade am Lernen
 
 - MCP Server & Client Design (Python SDK)
-- - Local-first Agents mit Ollama
-  - - Reproduzierbare AI-Workstation (Windows 11 + WinGet)
-   
-    - ---
+- Local-first Agents mit Ollama
+- Reproduzierbare AI-Workstation (Windows 11 + WinGet)
 
-    <div align="center">
+---
 
-    *Immer am Automatisieren, selten am Wiederholen.*
+<div align="center">
 
-    </div>
-    
+*Immer am Automatisieren, selten am Wiederholen.*
+
+</div>
